@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello！Sakikoです 👋
 
-<!--
-**ring013/ring013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 私について
+現在、Web開発の学習に励んでいます。HTML / CSS / JavaScript を中心に、フロントエンドの知識を深めています。  
+将来的にはデータ分析や機械学習の領域にもチャレンジしていきたいです。
 
-Here are some ideas to get you started:
+## 🔧 技術スタック（勉強中）
+- HTML / CSS / JavaScript
+- Git / GitHub
+- Python（予定）
+- VS Code / Notion での学習管理
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ 今取り組んでいること
+- GitHubの操作に慣れること
+- ポートフォリオサイトの制作
+- プロフィールREADMEのカスタマイズ！
+
+
+
