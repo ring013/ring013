@@ -16,7 +16,7 @@
 - プロフィールREADMEのカスタマイズ！
 
 ## 🛠 使用スキル
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 
 
 ## 📊 GitHub Stats
