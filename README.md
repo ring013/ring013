@@ -15,6 +15,10 @@
 - ポートフォリオサイトの制作
 - プロフィールREADMEのカスタマイズ！
 
+## 🛠 使用スキル
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github" />
+
+
 ## 📊 GitHub Stats
 
 ![Sakiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ring013&show_icons=true&theme=tokyonight)
